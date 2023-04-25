@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.meu_diario {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    margin-left: 20px;
+    background-color: rgb(253, 127, 255);
+    border-radius: 20px;
+}
+h1{
+    margin-bottom: 50px;
+    color: brown;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+
+}
+
+#section2 {
+    display: inline-block;
+    width: 200px;
+    height: 200px;
+    border: 2px solid rgb(36, 186, 61);
+    margin-left: 20px;
+    background-color: rgb(237, 246, 53);
+    border-radius: 20px;
+}
